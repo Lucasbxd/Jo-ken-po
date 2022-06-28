@@ -1,0 +1,1 @@
+Projeto simples com o intuito de recriar o jogo chamado "Jo-Ken-po" utilizando a linguagem python.
