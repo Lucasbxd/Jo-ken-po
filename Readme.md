@@ -25,7 +25,7 @@ Os ícones utilizados neste projeto foram obtidos através de sites de terceiros
 
 - <a href="https://www.flaticon.com/br/autores/tulpahn" title="Material escolar ícones criados por tulpahn - Flaticon">tulpahn</a> (tesoura.png, papel.png)
 - <a href="https://www.flaticon.com/authors/good-ware" title="Stone icons created by Good Ware - Flaticon">Good Ware</a> (pedra.png)
-- <a href="https://www.flaticon.com/free-icons/home" title="Home icons created by hqrloveq - Flaticon">hqrloveq</a> (home.png)
+- <a href="https://www.flaticon.com/br/autores/hqrloveq" title="Home icons created by hqrloveq - Flaticon">hqrloveq</a> (home.png)
 - <a href="https://www.flaticon.com/authors/freepik" title="Input icons created by Freepik - Flaticon">Freepik</a> (primeiro.png, segundo.png, terceiro.png, win_off.png, win_on.png, replay.png)
 - <a href="https://pt.pngtree.com/oedesign_10931162?type=1" title="Input icons created by oedesign - pt.pngtree">oedesign</a> (vs.png)
 - <a href="https://www.flaticon.com/br/autores/roundicons" title="Input icons created by Roundicons - Flaticon">Roundicons</a> (proximo.png)
