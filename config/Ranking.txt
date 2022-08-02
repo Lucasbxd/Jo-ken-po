@@ -1,3 +1,4 @@
-Lucas,3
-dasda,1
-dasda,0
+Eduardo,1
+Lucas,1
+Luciana,1
+teste,2
