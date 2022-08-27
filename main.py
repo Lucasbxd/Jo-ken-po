@@ -1,7 +1,4 @@
-import cmd
-import re
 from tkinter import *
-from tokenize import String
 from PIL import ImageTk
 import PIL.Image
 from random import randint
